@@ -1,0 +1,30 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "number-zero": "^1.0.0",
+    "number-one-hundred": "^1.0.0",
+    "is-divisible-by-5": "^1.0.0",
+    "is-divisible-by-3": "^1.0.0",
+    "is-divisible-by-5-and-3": "^1.0.0",
+    "number-that-is-between-one-and-hundred-to-string": "^1.0.0",
+    "string-fizz-buzz": "^1.0.0",
+    "string-fizz": "^1.0.0",
+    "string-buzz": "^1.0.0",
+    "increment-by-one": "^1.0.0",
+    "for-loop": "^1.0.0",
+    "if-condition": "^1.0.0",
+    "else-if-condition": "^1.0.0",
+    "else-condition": "^1.0.0",
+    "less-than": "^1.0.0",
+    "print-string": "^1.0.0"
+  }
+}

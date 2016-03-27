@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "fizzbuzz",
+  "main": "index.js",
+  "scripts": {
+    "install": "lerna bootstrap",
+    "start": "node packages/fizzbuzz",
+    "test": "npm start -s | diff - expected.txt"
+  },
+  "keywords": [
+    "fizz",
+    "buzz",
+    "fizzbuzz"
+  ],
+  "author": "Moshe Kolodny",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^1.1.2"
+  }
+}
